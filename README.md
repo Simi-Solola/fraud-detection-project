@@ -7,7 +7,7 @@ It explores **supervised and unsupervised approaches** to detect fraudulent tran
 
 ##  Project Overview
 
-Fraud is a critical challenge in online transactions. In this project, we simulate fraud detection scenarios using synthetic data generated with **Gretel.ai**.  
+Fraud is a critical challenge in online transactions. In this project, fraud detection scenarios was simulated using synthetic data generated with **Gretel.ai**.  
 
 The focus is on comparing:
 - **Anomaly detection models** (Isolation Forest)  
