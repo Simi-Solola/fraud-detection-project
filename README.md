@@ -30,5 +30,5 @@ We evaluate their effectiveness under **high class imbalance** (fraud cases are 
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/fraud-detection-fastmeal.git
+git clone https://github.com/Simi-Solola/fraud-detection-fastmeal.git
 cd fraud-detection-fastmeal
