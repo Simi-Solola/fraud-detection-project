@@ -13,7 +13,7 @@ The focus is on comparing:
 - **Anomaly detection models** (Isolation Forest)  
 - **Supervised classifiers** (Logistic Regression, Random Forest, XGBoost, Decision Tree)  
 
-We evaluate their effectiveness under **high class imbalance** (fraud cases are rare).  
+Their effectiveness was evaluated under **high class imbalance** (fraud cases are rare).  
 
 ---
 
